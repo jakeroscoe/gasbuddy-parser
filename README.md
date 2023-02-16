@@ -7,9 +7,9 @@ Run the project:
 1. `npm install`
 2. `node parse.js`
 
-Utilize the parser:
+Utilize the parser in postman:
 
-http://localhost:3000/parse?address={address+city+state+zip}&pages=n
+GET http://localhost:3000/parse?address={address+city+state+zip}&pages=n
 
 1 Infinite Loop, Cupertino, CA 95014 would be formatted as: "1+infinite+loop+cupertino+ca+95014".
 
