@@ -4,8 +4,8 @@ Prerequisites: npm, node
 
 Run the project:
 
-`npm install`
-`node parse.js`
+1. `npm install`
+2. `node parse.js`
 
 Utilize the parser:
 
